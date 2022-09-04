@@ -30,7 +30,8 @@ ví dụ : ssh -i ed25519 -p 56531 ctf-player@saturn.picoctf.net(bài Operation 
 
 *Wed test pictures : https://29a.ch/photo-forensics/#forensic-magnifier
 
-*Tool File âm thanh :                                                   +https://www.reddit.com/r/computerforensics/comments/8uo5sh/links_to_audio_steganography_tools/
+*Tool File âm thanh :                                                   
++https://www.reddit.com/r/computerforensics/comments/8uo5sh/links_to_audio_steganography_tools/
 +https://github.com/DominicBreuker/stego-toolkit/blob/master/README.md#tools
 
 *Wed điều chỉnh các bytes trong files : https://en.wikipedia.org/wiki/List_of_file_signatures
